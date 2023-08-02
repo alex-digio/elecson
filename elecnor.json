@@ -1,38 +1,59 @@
 [
 	{
-		name: "PRP",
-		package: "com.ipartek.elecnorprp",
-		description: "Permisos de Riesgos Principales. Comprobaciones previas a la realización de un trabajo con riesgo principal en Elecnor.",
-		image: "https://elecnorhub.blob.core.windows.net/indicehub/imgs/prp.png"
+		"name": "PRP",
+		"package": "com.ipartek.elecnorprp",
+		"description": "Permisos de Riesgos Principales. Comprobaciones previas a la realización de un trabajo con riesgo principal en Elecnor.",
+		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/prp.png",
+		"videos": [
+			"https://www.youtube.com/watch?v=FgwfObY-WDQ&ab_channel=MeatCanyon",
+			"https://www.youtube.com/watch?v=gtb-mWSDfF0&ab_channel=MeatCanyon"
+		],
+		"user_manuals": ["https://www.dualsportafrica.com/Yamaha-XTZ750-XTZ750-ServiceManual-Super-Tenere.pdf"]
 	},
 	{
-		name: "GREL",
-		package: "https://grel.elecnor.es/",
-		description: "Gestión de Residuos",
-		image: "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png"
+		"name": "GREL",
+		"package": "https://grel.elecnor.es/",
+		"description": "Gestión de Residuos",
+		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
+		"videos": [
+			"https://www.youtube.com/watch?v=8pzvkscq4h8&ab_channel=MeatCanyon"
+		],
+		"user_manuals": ["https://www.fazer-hispania.com/manuales/5d0-28197-s0.pdf"]
 	},
 	{
-		name: "SegurT",
-		package: "com.elecnor.segurt",
-		description: "La aplicación permite realizar inspecciones de Seguridad y auditorías y generar los informes de las mismas.",
-		image: "https://elecnorhub.blob.core.windows.net/indicehub/imgs/segurt.png"
+		"name": "SegurT",
+		"package": "com.elecnor.segurt",
+		"description": "La aplicación permite realizar inspecciones de Seguridad y auditorías y generar los informes de las mismas.",
+		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/segurt.png",
+		"videos": [
+		],
+		"user_manuals": ["https://example.com/user_manual_segurt"]
 	},
 	{
-		name: "Notific@",
-		package: "com.elecnor.notifica",
-		description: "Esta aplicación sirve para notificar accidentes, incidentes e ideas de mejora",
-		image: "https://elecnorhub.blob.core.windows.net/indicehub/imgs/notifica.png"
+		"name": "Notific@",
+		"package": "com.elecnor.notifica",
+		"description": "Esta aplicación sirve para notificar accidentes, incidentes e ideas de mejora",
+		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/notifica.png",
+		"videos": [
+		],
+		"user_manuals": []
 	},
 	{
-		name: "CORE",
-		package: "https://core.elecnor.es",
-		description: "Gestión Integral de Prevención y Calidad",
-		image: "https://elecnorhub.blob.core.windows.net/indicehub/imgs/core.png"
+		"name": "CORE",
+		"package": "https://core.elecnor.es",
+		"description": "Gestión Integral de Prevención y Calidad",
+		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/core.png",
+		"videos": [
+      "https://www.youtube.com/watch?v=QzIuV9Dli1w&ab_channel=MeatCanyon"
+		],
+		"user_manuals": []
 	},
 	{
-		name: "Encuestas",
-		package: "https://encuestas.elecnor.com",
-		description: "Encuestas de satisfación",
-		image: "https://elecnorhub.blob.core.windows.net/indicehub/imgs/encuestas.png"
+		"name": "Encuestas",
+		"package": "https://encuestas.elecnor.com",
+		"description": "Encuestas de satisfacción",
+		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/encuestas.png",
+		"videos": [
+		],
 	}
 ]
