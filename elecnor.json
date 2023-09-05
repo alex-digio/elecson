@@ -4,20 +4,15 @@
 		"package": "com.ipartek.elecnorprp",
 		"description": "Permisos de Riesgos Principales. Comprobaciones previas a la realización de un trabajo con riesgo principal en Elecnor.",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/prp.png",
-		"videos": [
-			"https://www.youtube.com/watch?v=FgwfObY-WDQ&ab_channel=MeatCanyon",
-			"https://www.youtube.com/watch?v=gtb-mWSDfF0&ab_channel=MeatCanyon"
-		],
-		"user_manuals": ["https://www.dualsportafrica.com/Yamaha-XTZ750-XTZ750-ServiceManual-Super-Tenere.pdf"]
+		"videos": [],
+		"user_manuals": ["https://prp.elecnor.es/ManualesPDF/web.pdf", "https://prp.elecnor.es/ManualesPDF/app.pdf"]
 	},
 	{
 		"name": "GREL",
 		"package": "https://grel.elecnor.es/",
 		"description": "Gestión de Residuos",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
-		"videos": [
-			"https://www.youtube.com/watch?v=8pzvkscq4h8&ab_channel=MeatCanyon"
-		],
+		"videos": [],
 		"user_manuals": ["https://www.fazer-hispania.com/manuales/5d0-28197-s0.pdf"]
 	},
 	{
@@ -27,7 +22,7 @@
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/segurt.png",
 		"videos": [
 		],
-		"user_manuals": ["https://example.com/user_manual_segurt"]
+		"user_manuals": ["https://docs.google.com/document/d/1eAxPqIqEkCw64NlO9kZ3_-Opk2fb8mzTIFomV6V4GJY/edit", "https://docs.google.com/document/d/1pwk_CUfhBZ1DbAq65PRaNmEwmGdRq2UkLPBR4aiwh1Q/edit"]
 	},
 	{
 		"name": "Notific@",
@@ -36,7 +31,7 @@
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/notifica.png",
 		"videos": [
 		],
-		"user_manuals": []
+		"user_manuals": ["https://docs.google.com/document/d/1_Wyqn1QuDKkq97rHHZQyhHajVbo82WyC/edit"]
 	},
 	{
 		"name": "CORE",
@@ -44,8 +39,12 @@
 		"description": "Gestión Integral de Prevención y Calidad",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/core.png",
 		"videos": [
-     			 "https://www.youtube.com/watch?v=QzIuV9Dli1w&ab_channel=MeatCanyon"
-		]
+     			 "https://core.elecnor.es/media/training/Audits_16_03_22.mp4",
+			"https://vimeo.com/554754003/c59fda882a",
+			"https://core.elecnor.es/media/training/Objectives_15_02_23.mp4",
+			"https://core.elecnor.es/media/training/Plans_15_02_23.mp4"
+		],
+		"user_manuals": []
 		
 	},
 	{
@@ -55,6 +54,6 @@
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/encuestas.png",
 		"videos": [
 		],
-		"user_manuals": ["https://translate.google.es/?hl=es&tab=TT"]
+		"user_manuals": []
 	}
 ]
