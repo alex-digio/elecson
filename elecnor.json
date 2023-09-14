@@ -13,15 +13,14 @@
 		"description": "Gestión de Residuos",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
 		"videos": [],
-		"user_manuals": ["https://www.fazer-hispania.com/manuales/5d0-28197-s0.pdf"]
+		"user_manuals": []
 	},
 	{
 		"name": "SegurT",
 		"package": "com.elecnor.segurt",
 		"description": "La aplicación permite realizar inspecciones de Seguridad y auditorías y generar los informes de las mismas.",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/segurt.png",
-		"videos": [
-		],
+		"videos": [],
 		"user_manuals": ["https://docs.google.com/document/d/1eAxPqIqEkCw64NlO9kZ3_-Opk2fb8mzTIFomV6V4GJY/edit", "https://docs.google.com/document/d/1pwk_CUfhBZ1DbAq65PRaNmEwmGdRq2UkLPBR4aiwh1Q/edit"]
 	},
 	{
@@ -29,8 +28,7 @@
 		"package": "com.elecnor.notifica",
 		"description": "Esta aplicación sirve para notificar accidentes, incidentes e ideas de mejora",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/notifica.png",
-		"videos": [
-		],
+		"videos": [],
 		"user_manuals": ["https://docs.google.com/document/d/1_Wyqn1QuDKkq97rHHZQyhHajVbo82WyC/edit"]
 	},
 	{
@@ -52,8 +50,7 @@
 		"package": "https://encuestas.elecnor.com",
 		"description": "Encuestas de satisfacción",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/encuestas.png",
-		"videos": [
-		],
+		"videos": [],
 		"user_manuals": []
 	}
 ]
