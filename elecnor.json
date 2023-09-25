@@ -5,7 +5,16 @@
 		"description": "Permisos de Riesgos Principales. Comprobaciones previas a la realización de un trabajo con riesgo principal en Elecnor.",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/prp.png",
 		"videos": [],
-		"user_manuals": ["https://prp.elecnor.es/ManualesPDF/web.pdf", "https://prp.elecnor.es/ManualesPDF/app.pdf"]
+		"user_manuals": [
+			{
+				"name": "Manual web",
+				"link": "https://prp.elecnor.es/ManualesPDF/web.pdf"
+			}, 
+			{
+				"name": "Manual app",
+				"link": "https://prp.elecnor.es/ManualesPDF/app.pdf"
+			}
+		]
 	},
 	{
 		"name": "GREL",
@@ -21,7 +30,16 @@
 		"description": "La aplicación permite realizar inspecciones de Seguridad y auditorías y generar los informes de las mismas.",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/segurt.png",
 		"videos": [],
-		"user_manuals": ["https://docs.google.com/document/d/1eAxPqIqEkCw64NlO9kZ3_-Opk2fb8mzTIFomV6V4GJY/edit", "https://docs.google.com/document/d/1pwk_CUfhBZ1DbAq65PRaNmEwmGdRq2UkLPBR4aiwh1Q/edit"]
+		"user_manuals": [
+			{
+				"name": "",
+				"link": "https://docs.google.com/document/d/1eAxPqIqEkCw64NlO9kZ3_-Opk2fb8mzTIFomV6V4GJY/edit"
+			},
+			{
+				"name": "",
+				"link": "https://docs.google.com/document/d/1pwk_CUfhBZ1DbAq65PRaNmEwmGdRq2UkLPBR4aiwh1Q/edit"
+			}
+		]
 	},
 	{
 		"name": "Notific@",
@@ -29,7 +47,12 @@
 		"description": "Esta aplicación sirve para notificar accidentes, incidentes e ideas de mejora",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/notifica.png",
 		"videos": [],
-		"user_manuals": ["https://docs.google.com/document/d/1_Wyqn1QuDKkq97rHHZQyhHajVbo82WyC/edit"]
+		"user_manuals": [
+			{
+				"name": "",
+				"link": "https://docs.google.com/document/d/1_Wyqn1QuDKkq97rHHZQyhHajVbo82WyC/edit"
+			}
+		]
 	},
 	{
 		"name": "CORE",
@@ -37,13 +60,20 @@
 		"description": "Gestión Integral de Prevención y Calidad",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/core.png",
 		"videos": [
-     			 "https://core.elecnor.es/media/training/Audits_16_03_22.mp4",
-			"https://vimeo.com/554754003/c59fda882a",
-			"https://core.elecnor.es/media/training/Objectives_15_02_23.mp4",
-			"https://core.elecnor.es/media/training/Plans_15_02_23.mp4"
+			{
+				"name": "",
+				"link": "https://core.elecnor.es/media/training/Audits_16_03_22.mp4"
+			},
+			{
+				"name": "",
+				"link": "https://vimeo.com/554754003/c59fda882a"
+			},
+			{
+				"name": "",
+				"link": "https://core.elecnor.es/media/training/Plans_15_02_23.mp4"
+			}
 		],
 		"user_manuals": []
-		
 	},
 	{
 		"name": "Encuestas",
