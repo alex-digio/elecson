@@ -4,8 +4,8 @@
 		"package": "com.ipartek.elecnorprp",
 		"description": "Permisos de Riesgos Principales. Comprobaciones previas a la realización de un trabajo con riesgo principal en Elecnor.",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/prp.png",
-		"video_list": [],
-		"user_manual_list": [
+		"videos": [],
+		"user_manuals": [
 			{
 				"name": "Manual web",
 				"link": "https://prp.elecnor.es/ManualesPDF/web.pdf"
@@ -21,16 +21,16 @@
 		"package": "https://grel.elecnor.es/",
 		"description": "Gestión de Residuos",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
-		"video_list": [],
-		"user_manual_list": []
+		"videos": [],
+		"user_manuals": []
 	},
 	{
 		"name": "SegurT",
 		"package": "com.elecnor.segurt",
 		"description": "La aplicación permite realizar inspecciones de Seguridad y auditorías y generar los informes de las mismas.",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/segurt.png",
-		"video_list": [],
-		"user_manual_list": [
+		"videos": [],
+		"user_manuals": [
 			{
 				"name": "",
 				"link": "https://docs.google.com/document/d/1eAxPqIqEkCw64NlO9kZ3_-Opk2fb8mzTIFomV6V4GJY/edit"
@@ -46,8 +46,8 @@
 		"package": "com.elecnor.notifica",
 		"description": "Esta aplicación sirve para notificar accidentes, incidentes e ideas de mejora",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/notifica.png",
-		"video_list": [],
-		"user_manual_list": [
+		"videos": [],
+		"user_manuals": [
 			{
 				"name": "",
 				"link": "https://docs.google.com/document/d/1_Wyqn1QuDKkq97rHHZQyhHajVbo82WyC/edit"
@@ -59,28 +59,32 @@
 		"package": "https://core.elecnor.es",
 		"description": "Gestión Integral de Prevención y Calidad",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/core.png",
-		"video_list": [
+		"videos": [
 			{
-				"name": "",
-				"link": "https://core.elecnor.es/media/training/Audits_16_03_22.mp4"
-			},
-			{
-				"name": "",
+				"name": "Tutorial Core",
 				"link": "https://vimeo.com/554754003/c59fda882a"
 			},
 			{
-				"name": "",
+				"name": "Auditorías",
+				"link": "https://core.elecnor.es/media/training/Audits_16_03_22.mp4"
+			},
+			{
+				"name": "Objetivos y metas",
+				"link": "https://core.elecnor.es/media/training/Objectives_15_02_23.mp4"
+			},
+			{
+				"name": "Planes de acción",
 				"link": "https://core.elecnor.es/media/training/Plans_15_02_23.mp4"
 			}
 		],
-		"user_manual_list": []
+		"user_manuals": []
 	},
 	{
 		"name": "Encuestas",
 		"package": "https://encuestas.elecnor.com",
 		"description": "Encuestas de satisfacción",
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/encuestas.png",
-		"video_list": [],
-		"user_manual_list": []
+		"videos": [],
+		"user_manuals": []
 	}
 ]
