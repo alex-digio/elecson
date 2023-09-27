@@ -61,15 +61,19 @@
 		"image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/core.png",
 		"video_list": [
 			{
-				"name": "",
-				"link": "https://core.elecnor.es/media/training/Audits_16_03_22.mp4"
-			},
-			{
-				"name": "",
+				"name": "Tutorial Core",
 				"link": "https://vimeo.com/554754003/c59fda882a"
 			},
 			{
-				"name": "",
+				"name": "Auditorías",
+				"link": "https://core.elecnor.es/media/training/Audits_16_03_22.mp4"
+			},
+			{
+				"name": "Objetivos y metas",
+				"link": "https://core.elecnor.es/media/training/Objectives_15_02_23.mp4"
+			},
+			{
+				"name": "Planes de acción",
 				"link": "https://core.elecnor.es/media/training/Plans_15_02_23.mp4"
 			}
 		],
