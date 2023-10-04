@@ -18,15 +18,15 @@
     "roles": [
       {
         "idPerfil": "ADM",
-        "Perfil": "Administrador"
+        "perfil": "Administrador"
       },
       {
         "idPerfil": "JT",
-        "Perfil": "Jefe de Trabajo"
+        "perfil": "Jefe de Trabajo"
       },
       {
         "idPerfil": "AUD",
-        "Perfil": "Auditor"
+        "perfil": "Auditor"
       }
     ]
   },
@@ -58,11 +58,11 @@
     "roles": [
       {
         "idPerfil": "TSP",
-        "Perfil": "TSP / Delegado"
+        "perfil": "TSP / Delegado"
       },
       {
         "idPerfil": "ENC",
-        "Perfil": "Encargado"
+        "perfil": "Encargado"
       }
     ]
   },
@@ -81,7 +81,7 @@
     "roles": [
       {
         "idPerfil": "JO",
-        "Perfil": "Jefe Obra"
+        "perfil": "Jefe Obra"
       }
     ]
   },
@@ -112,11 +112,11 @@
     "roles": [
       {
         "idPerfil": "AUD",
-        "Perfil": "Auditor"
+        "perfil": "Auditor"
       },
       {
         "idPerfil": "JCP",
-        "Perfil": "Jefe de CP"
+        "perfil": "Jefe de CP"
       }
     ]
   },
@@ -130,7 +130,7 @@
     "roles": [
       {
         "idPerfil": "ENC",
-        "Perfil": "Encargado"
+        "perfil": "Encargado"
       }
     ]
   }
