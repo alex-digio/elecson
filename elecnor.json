@@ -37,7 +37,12 @@
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
     "video_list": [],
     "user_manual_list": [],
-    "roles": []
+    "roles": [
+      {
+        "idPerfil": "JT",
+        "perfil": "Jefe de Trabajo"
+      }
+    ]
   },
   {
     "name": "SegurT",
