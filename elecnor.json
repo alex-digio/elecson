@@ -118,10 +118,6 @@
       {
         "idPerfil": "AUD",
         "perfil": "Auditor"
-      },
-      {
-        "idPerfil": "JCP",
-        "perfil": "Jefe de CP"
       }
     ]
   },
