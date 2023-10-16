@@ -15,7 +15,7 @@
         "link": "https://prp.elecnor.es/ManualesPDF/app.pdf"
       }
     ],
-    "roles": [
+    "perfiles": [
       {
         "idPerfil": "ADM",
         "perfil": "Administrador"
@@ -37,7 +37,7 @@
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
     "video_list": [],
     "user_manual_list": [],
-    "roles": [
+    "perfiles": [
       {
         "idPerfil": "JT",
         "perfil": "Jefe de Trabajo"
@@ -60,7 +60,7 @@
         "link": "https://docs.google.com/document/d/1pwk_CUfhBZ1DbAq65PRaNmEwmGdRq2UkLPBR4aiwh1Q/edit"
       }
     ],
-    "roles": [
+    "perfiles": [
       {
         "idPerfil": "TSP",
         "perfil": "TSP / Delegado"
@@ -83,7 +83,7 @@
         "link": "https://docs.google.com/document/d/1_Wyqn1QuDKkq97rHHZQyhHajVbo82WyC/edit"
       }
     ],
-    "roles": [
+    "perfiles": [
       {
         "idPerfil": "JO",
         "perfil": "Jefe Obra"
@@ -114,7 +114,7 @@
       }
     ],
     "user_manual_list": [],
-    "roles": [
+    "perfiles": [
       {
         "idPerfil": "AUD",
         "perfil": "Auditor"
@@ -132,7 +132,7 @@
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/encuestas.png",
     "video_list": [],
     "user_manual_list": [],
-    "roles": [
+    "perfiles": [
       {
         "idPerfil": "ENC",
         "perfil": "Encargado"
