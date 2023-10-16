@@ -15,20 +15,7 @@
         "link": "https://prp.elecnor.es/ManualesPDF/app.pdf"
       }
     ],
-    "perfiles": [
-      {
-        "idPerfil": "ADM",
-        "perfil": "Administrador"
-      },
-      {
-        "idPerfil": "JT",
-        "perfil": "Jefe de Trabajo"
-      },
-      {
-        "idPerfil": "AUD",
-        "perfil": "Auditor"
-      }
-    ]
+    "profiles": ["ADM", "JT", "AUD"]
   },
   {
     "name": "GREL",
@@ -37,12 +24,7 @@
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
     "video_list": [],
     "user_manual_list": [],
-    "perfiles": [
-      {
-        "idPerfil": "JT",
-        "perfil": "Jefe de Trabajo"
-      }
-    ]
+    "profiles": ["JT"]
   },
   {
     "name": "SegurT",
@@ -60,16 +42,7 @@
         "link": "https://docs.google.com/document/d/1pwk_CUfhBZ1DbAq65PRaNmEwmGdRq2UkLPBR4aiwh1Q/edit"
       }
     ],
-    "perfiles": [
-      {
-        "idPerfil": "TSP",
-        "perfil": "TSP / Delegado"
-      },
-      {
-        "idPerfil": "ENC",
-        "perfil": "Encargado"
-      }
-    ]
+    "profiles": ["TSP", "ENC"]
   },
   {
     "name": "Notific@",
@@ -83,12 +56,7 @@
         "link": "https://docs.google.com/document/d/1_Wyqn1QuDKkq97rHHZQyhHajVbo82WyC/edit"
       }
     ],
-    "perfiles": [
-      {
-        "idPerfil": "JO",
-        "perfil": "Jefe Obra"
-      }
-    ]
+    "profiles": ["JO"]
   },
   {
     "name": "CORE",
@@ -114,16 +82,7 @@
       }
     ],
     "user_manual_list": [],
-    "perfiles": [
-      {
-        "idPerfil": "AUD",
-        "perfil": "Auditor"
-      },
-      {
-        "idPerfil": "JCP",
-        "perfil": "Jefe de CP"
-      }
-    ]
+    "profiles": ["AUD", "JCP"]
   },
   {
     "name": "Encuestas",
@@ -132,11 +91,6 @@
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/encuestas.png",
     "video_list": [],
     "user_manual_list": [],
-    "perfiles": [
-      {
-        "idPerfil": "ENC",
-        "perfil": "Encargado"
-      }
-    ]
+    "profiles": ["ENC"]
   }
 ]
