@@ -7,24 +7,11 @@
     "video_list": [],
     "user_manual_list": [
       {
-        "name": "Manual web",
-        "link": "https://prp.elecnor.es/ManualesPDF/web.pdf"
-      },
-      {
         "name": "Manual app",
         "link": "https://prp.elecnor.es/ManualesPDF/app.pdf"
       }
     ],
-    "profiles": ["ADM", "JT", "AUD"]
-  },
-  {
-    "name": "GREL",
-    "package": "https://grel.elecnor.es/",
-    "description": "Gestión de Residuos",
-    "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
-    "video_list": [],
-    "user_manual_list": [],
-    "profiles": ["JT"]
+    "profiles": ["JT", "ENC", "JO", "TSP", "ADM", "JCP", "AUD"]
   },
   {
     "name": "SegurT",
@@ -42,7 +29,7 @@
         "link": "https://docs.google.com/document/d/1pwk_CUfhBZ1DbAq65PRaNmEwmGdRq2UkLPBR4aiwh1Q/edit"
       }
     ],
-    "profiles": ["TSP", "ENC"]
+    "profiles": ["JT", "ENC", "JO", "TSP", "ADM", "JCP", "AUD"]
   },
   {
     "name": "Notific@",
@@ -56,7 +43,7 @@
         "link": "https://docs.google.com/document/d/1_Wyqn1QuDKkq97rHHZQyhHajVbo82WyC/edit"
       }
     ],
-    "profiles": ["JO"]
+    "profiles": ["JT", "ENC", "JO", "TSP", "ADM", "JCP", "AUD"]
   },
   {
     "name": "CORE",
@@ -82,7 +69,16 @@
       }
     ],
     "user_manual_list": [],
-    "profiles": ["AUD", "JCP"]
+    "profiles": ["JO", "TSP", "ADM", "JCP", "AUD"]
+  },
+  {
+    "name": "GREL",
+    "package": "https://grel.elecnor.es/",
+    "description": "Gestión de Residuos",
+    "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
+    "video_list": [],
+    "user_manual_list": [],
+    "profiles": ["JO", "TSP", "ADM", "JCP", "AUD"]
   },
   {
     "name": "Encuestas",
