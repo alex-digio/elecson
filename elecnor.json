@@ -1,7 +1,7 @@
 [
   {
     "name": "PRP",
-    "package": "com.ipartek.elecnorprp",
+    "package": "com.ipartek.elecxcvxcvnorprp",
     "description": "Permisos de Riesgos Principales. Comprobaciones previas a la realización de un trabajo con riesgo principal en Elecnor.",
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/prp.png",
     "video_list": [],
@@ -15,7 +15,7 @@
   },
   {
     "name": "SegurT",
-    "package": "com.elecnor.segurt",
+    "package": "com.elecnor.sexdfvgurt",
     "description": "La aplicación permite realizar inspecciones de Seguridad y auditorías y generar los informes de las mismas.",
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/segurt.png",
     "video_list": [],
@@ -82,7 +82,7 @@
   },
   {
     "name": "GREL",
-    "package": "https://grel.elecnor.es/",
+    "package": "https://grel.elecxcvnor.es/",
     "description": "Gestión de Residuos",
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/grel.png",
     "video_list": [],
