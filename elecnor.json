@@ -69,7 +69,16 @@
       }
     ],
     "user_manual_list": [],
-    "profiles": ["JO", "TSP", "ADM", "JCP", "AUD"]
+    "profiles": ["ENC", "JO", "TSP", "ADM", "JCP", "AUD"]
+  },
+  {
+    "name": "GoFormz",
+    "package": "https://mobilelink.goformz.com/open/goformz",
+    "description": "Trabajos en Tensión",
+    "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/goformz.png",
+    "video_list": [],
+    "user_manual_list": [],
+    "profiles": ["JT", "ENC", "JO", "TSP", "ADM", "JCP", "AUD"]
   },
   {
     "name": "GREL",
@@ -79,7 +88,8 @@
     "video_list": [],
     "user_manual_list": [],
     "profiles": ["JO", "TSP", "ADM", "JCP", "AUD"]
-  },
+  },  
+  
   {
     "name": "Encuestas",
     "package": "https://encuestas.elecnor.com",
@@ -87,6 +97,6 @@
     "image": "https://elecnorhub.blob.core.windows.net/indicehub/imgs/encuestas.png",
     "video_list": [],
     "user_manual_list": [],
-    "profiles": []
+    "profiles": ["OCULTAR"]
   }
 ]
